@@ -14,8 +14,8 @@ Remove tasks that are no longer needed.
 ###### Mark as Completed: 
 Mark tasks as completed to keep track of your progress.
 ### Technologies Used
-Frontend: HTML, CSS, JavaScript.
-Version Control: Git
+> Frontend: HTML, CSS, JavaScript.
+> Version Control: Git
 
 ### Usage
 #### Adding a Task:
