@@ -4,15 +4,15 @@ The ToDo_List-WebApp is a simple yet powerful web application designed to help y
 
 ### Features
 ###### Add Tasks:
-Easily add new tasks with a title and description.
+-> Easily add new tasks with a title and description.
 ###### View Tasks:
-View all your tasks in a single, organized list.
+-> View all your tasks in a single, organized list.
 ###### Edit Tasks: 
-Update task details as needed.
+-> Update task details as needed.
 ###### Delete Tasks:
-Remove tasks that are no longer needed.
+-> Remove tasks that are no longer needed.
 ###### Mark as Completed: 
-Mark tasks as completed to keep track of your progress.
+-> Mark tasks as completed to keep track of your progress.
 ### Technologies Used
 > Frontend: HTML, CSS, JavaScript.
 > Version Control: Git
